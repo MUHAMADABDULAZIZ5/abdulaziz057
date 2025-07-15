@@ -4,52 +4,35 @@
 <h1 align="center">Hi there, I'm Muhamad Abdul Aziz 👋</h1>
 <h3 align="center">A Passionate Web Developer from Indonesia 🇮🇩</h3>
 
-<table>
-  <tr>
-    <td valign="top" width="65%">
-      <div id="user-content-toc">
-        <ul align="left">
-          <summary>✨ <strong>Tentang Saya</strong></summary>
-        </ul>
-      </div>
+<table width="100%">
+  <tr valign="top">
+    <td width="65%">
+      <h3>✨ Tentang Saya</h3>
       <p align="left">
         Saya adalah seorang Web Developer dengan ketertarikan mendalam pada pembuatan aplikasi web yang modern, responsif, dan fungsional. Sebagai mahasiswa Ilmu Komputer di Universitas Yarsi Madani, saya selalu antusias untuk mengeksplorasi teknologi baru dan menerapkannya dalam proyek-proyek nyata.
         <br><br>
-        - 🔭 Saat ini saya sedang mengerjakan <strong>[Nama Proyek Anda Saat Ini]</strong>.
-        <br>
-        - 🌱 Saya sedang mendalami <strong>React Native</strong> dan <strong>GraphQL</strong>.
-        <br>
-        - 💬 Tanyakan saya tentang apapun yang berhubungan dengan <strong>JavaScript, React, atau Laravel</strong>.
-        <br>
+        - 🔭 Saat ini saya sedang mengerjakan <strong>[Nama Proyek Anda Saat Ini]</strong>.<br>
+        - 🌱 Saya sedang mendalami <strong>React Native</strong> dan <strong>GraphQL</strong>.<br>
+        - 💬 Tanyakan saya tentang apapun yang berhubungan dengan <strong>JavaScript, React, atau Laravel</strong>.<br>
         - 📫 Cara menghubungi saya: <strong><a href="mailto:[email.anda@example.com]">email.anda@example.com</a></strong>
       </p>
-
-      <div id="user-content-toc">
-        <ul align="left">
-          <summary>🛠️ <strong>Teknologi & Tools</strong></summary>
-        </ul>
-      </div>
+      <h3>🛠️ Teknologi & Tools</h3>
       <p align="left">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vue,nodejs,express,php,laravel,mysql,mongodb,postman,figma,vscode,git,docker&perline=9" />
         </a>
       </p>
-
-      <div id="user-content-toc">
-        <ul align="left">
-          <summary>🔗 <strong>Hubungi Saya</strong></summary>
-        </ul>
-      </div>
+      <h3>🔗 Hubungi Saya</h3>
       <p align="left">
         <a href="https://linkedin.com/in/[username-linkedin-anda]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
         <a href="https://instagram.com/[username-instagram-anda]" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
         <a href="https://twitter.com/[username-twitter-anda]" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
       </p>
     </td>
-    <td valign="top" width="35%">
+    <td width="35%">
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=abdulaziz57&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulaziz57&layout=compact&langs_count=8&theme=dracula" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api?username=abdulaziz57&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulaziz57&layout=compact&langs_count=8&theme=dracula" alt="Top Languages"><br>
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=[USERNAME_WAKATIME_ANDA]&theme=dracula&layout=compact" alt="WakaTime Stats">
       </p>
     </td>
