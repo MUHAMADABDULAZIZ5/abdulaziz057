@@ -58,7 +58,7 @@
 <h2 align="center">💡 Kutipan Hari Ini 💡</h2>
 
 <p align="center">
-  <a href="https://github.com/abdulaziz057/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/quote?theme=dracula&hide_border=true&title_color=58A6FF&text_color=FFFFFF" />
   </a>
 </p>
