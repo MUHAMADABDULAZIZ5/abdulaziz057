@@ -15,5 +15,5 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           readme_file: "README.md"
-          quote_tag: "QUOTE" # Tag ini harus sama dengan yang di README
-          type: "programming" # Bisa diganti "quote" untuk kutipan umum
+          quote_tag: "QUOTE"
+          type: "programming"
