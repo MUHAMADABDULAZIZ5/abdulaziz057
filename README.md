@@ -30,11 +30,6 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB6MW82ZTNmM3ZzZXd2M2pudTByeGJ5bzZqZ3k0dDBnNmJpcjU4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlB5soxgHpjBmsU/giphy.gif" width="100%">
-</div>
-
-
 <h2 align="center">🚀 Tech Stack & Tools Saya 🚀</h2>
 <p align="center">
   <a href="https://skillicons.dev">
