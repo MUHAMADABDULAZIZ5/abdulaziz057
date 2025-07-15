@@ -11,12 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      # =========================================================
-      # PERUBAHAN DI SINI: Menggunakan @master bukan @v1
-      # =========================================================
-      - uses: piyushsuthar/github-readme-quotes@master
+      # MENGGUNAKAN ACTION PENGGANTI YANG AKTIF
+      - uses: Gautam-Arora24/inspirational-quotes@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          readme_file: "README.md"
-          quote_tag: "QUOTE"
-          type: "programming"
+          # Tag di README.md HARUS SAMA dengan format ini
+          quote_readme_tag: ""
