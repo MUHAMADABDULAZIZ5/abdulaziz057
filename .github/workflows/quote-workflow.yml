@@ -1,0 +1,19 @@
+name: Update README with daily quote
+on:
+  schedule:
+    # Runs every day at midnight
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with daily quote
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: piyushsuthar/github-readme-quotes@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          readme_file: "README.md"
+          quote_tag: "QUOTE" # Tag ini harus sama dengan yang di README
+          type: "programming" # Bisa diganti "quote" untuk kutipan umum
