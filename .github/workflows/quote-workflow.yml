@@ -10,8 +10,11 @@ jobs:
     name: Update README with daily quote
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: piyushsuthar/github-readme-quotes@v1
+      - uses: actions/checkout@v3
+      # =========================================================
+      # PERUBAHAN DI SINI: Menggunakan @master bukan @v1
+      # =========================================================
+      - uses: piyushsuthar/github-readme-quotes@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           readme_file: "README.md"
