@@ -11,8 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      # MENGGUNAKAN ACTION PENGGANTI YANG AKTIF
-      - uses: Gautam-Arora24/inspirational-quotes@v1
+      # =========================================================
+      # KODE FINAL DENGAN NAMA ACTION YANG BENAR (TANPA '24')
+      # =========================================================
+      - uses: Gautam-Arora/inspirational-quotes@v1
         with:
-          # Tag di README.md HARUS SAMA dengan format ini
           quote_readme_tag: ""
