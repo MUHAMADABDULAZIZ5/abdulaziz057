@@ -55,7 +55,7 @@
   </tr>
 </table>
 
-<h2 align="center">📝 Postingan Blog Terbaru 📝</h2>
+<h2 align="center">💡 Kutipan Hari Ini 💡</h2>
 
 <p align="center">
   <img src="https://github.com/abdulaziz057/abdulaziz057/blob/output/github-contribution-grid-snake.svg" alt="snake">
