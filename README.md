@@ -1,18 +1,17 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZzZ2d2dDR4b2s4Z2g4d2lqMWJ1MGFuamFkZGRlNjdsbmZjcXB6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6jpI2s/giphy.gif" width="100%">
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZzZ2d2dDR4b2s4Z2g4d2lqMWJ1MGFuamFkZGRlNjdsbmZjcXB6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6jpI2s/giphy.gif" width="100%">
 </p>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block;">Halo, Saya Abdul Aziz! 👋</h1></summary>
-  </ul>
-</div>
+<h1 align="center">✨ Muhamad Abdul Aziz ✨</h1>
+<h3 align="center">Web Developer | Universitas Yatsi Madani (Ilkom)</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Mahasiswa+Ilmu+Komputer+di+Universitas+Yarsi+Madani;Seorang+Web+Developer+yang+antusias;Selalu+belajar+teknologi+web+terbaru;Siap+untuk+berkolaborasi+dalam+proyek+keren!" alt="Typing SVG" />
-  </a>
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Mahasiswa+Ilmu+Komputer+di+Universitas+Yarsi+Madani;Seorang+Web+Developer+yang+antusias;Selalu+belajar+teknologi+web+terbaru;Siap+untuk+berkolaborasi+dalam+proyek+keren!" alt="Typing SVG" />
+ </a>
 </p>
+
+---
 
 <p align="center">
   Seorang pengembang web dengan hasrat untuk membangun aplikasi web yang bersih, efisien, dan ramah pengguna. Saat ini sedang mendalami ekosistem JavaScript modern seperti React dan Node.js untuk menciptakan solusi digital yang inovatif.
@@ -30,22 +29,31 @@
   </a>
 </p>
 
-<h2 align="center">🚀 Tech Stack & Tools Saya 🚀</h2>
+---
+
+<h2 align="center">🛠️ Keahlian Teknologi 🛠️</h2>
+<p align="center">Berikut adalah beberapa teknologi dan tools yang sering saya gunakan:</p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,php,laravel,mysql,mongodb,postman,figma,vscode,git&perline=8" />
-  </a>
+ <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,php,laravel,mysql,mongodb,postman,figma,vscode,git&perline=8" />
+ </a>
 </p>
 
-<h2 align="center">📊 Statistik GitHub Saya 📊</h2>
+---
+
+<h2 align="center">📈 Statistik GitHub 📈</h2>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdulaziz057&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulaziz057&layout=compact&langs_count=8&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdulaziz57&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulaziz57&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
+
+---
 
 <p align="center">
   <img src="https://github.com/abdulaziz057/abdulaziz057/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=150&section=footer&text=Let's%20Create%20Awesome%20Things!&fontSize=30" />
