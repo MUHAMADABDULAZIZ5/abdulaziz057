@@ -1,19 +1,14 @@
-name: Update README with daily quote
+name: Update README with Joke
 on:
   schedule:
-    # Runs every day at midnight
-    - cron: '0 0 * * *'
+    # Berjalan setiap 12 jam
+    - cron: '0 */12 * * *'
   workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Update README with daily quote
+  joke:
+    name: Update README with a new joke
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      # =========================================================
-      # KODE FINAL DENGAN NAMA ACTION YANG BENAR (TANPA '24')
-      # =========================================================
-      - uses: Gautam-Arora/inspirational-quotes@v1
-        with:
-          quote_readme_tag: ""
+      - uses: ABSphreak/readme-jokes@v1
